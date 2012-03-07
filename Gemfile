@@ -21,6 +21,7 @@ group :assets do
 end
 
 gem 'haml'
+gem 'heroku'
 
 gem 'jquery-rails'
 
